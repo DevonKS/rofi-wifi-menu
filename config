@@ -1,0 +1,2 @@
+# Config for rofi-wifi-menu
+FIELDS=SSID,MODE,CHAN,RATE,SIGNAL,BARS,SECURITY
